@@ -1,6 +1,6 @@
 ## Hello! I'm Leonardo Yudi 👋
 - 🌱 I’m currently learning React JS, Typescript, TailWind 
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
  <div>
   <a href="https://github.com/LeonardoYudi">
