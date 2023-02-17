@@ -1,5 +1,5 @@
 ## Hello! I'm Leonardo Yudi 👋
-- 🌱 I’m currently learning React JS, Typescript, TailWind 
+- 🌱 I’m currently learning React JS, Typescript, TailWind and Vue
 - 😄 Pronouns: he/him
 
  <div>
